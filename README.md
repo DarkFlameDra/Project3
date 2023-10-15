@@ -1,0 +1,20 @@
+# Project3
+To start Project 3 we nee to somplete the following questions:
+Use the data from MongoDB sample: sample_supplies
+Find the following queries.
+
+1.Show top 10 products (name) sales (quantity x price).
+
+2.Show top 3 products (name) sales by store (location).
+
+3.Show rankings of each store (location).
+
+4.Show purchased method by gender table
+
+ ![image](https://github.com/DarkFlameDra/Project3/assets/148003597/e4a72678-365d-40a3-a790-9c1234b5d329)
+
+5.Show monthly total sales 
+
+Perform data analytics using any notebook tool. 
+
+ex:, Kaggle, Colab, VSCode Notebook 
